@@ -334,7 +334,7 @@ main {
   align-items: center;
   gap: 6px;
   padding: 8px 16px;
-  background: rgba(59, 130, 246, 0.85);
+  background: var(--accent);
   color: #fff;
   font-size: 0.8125rem;
   font-weight: 600;
