@@ -44,9 +44,6 @@ const Gallery = (() => {
         if (hero) {
             const heroSection = document.createElement('div');
             heroSection.className = 'hero';
-            if (hero.backgroundImage) {
-                heroSection.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.6)), url('${hero.backgroundImage}')`;
-            }
 
             heroSection.innerHTML = `
                 <div class="hero-content">
@@ -54,6 +51,7 @@ const Gallery = (() => {
                     ${hero.subtitle ? `<p class="hero-subtitle">${hero.subtitle}</p>` : ''}
                     ${hero.ctaText ? `<button class="hero-cta" id="hero-cta">${hero.ctaText}</button>` : ''}
                 </div>
+                ${hero.backgroundImage ? `<div class="hero-image" style="background-image: url('${hero.backgroundImage}')"></div>` : ''}
                 <div class="hero-scroll-indicator">
                     <span>Scroll</span>
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 13l5 5 5-5M7 6l5 5 5-5"/></svg>
