@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A minimalist photography portfolio showcasing vintage, urban, and abstract works.">
+  <meta name="theme-color" content="#0a0a0b">
+
+  <title>Portfolio</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+    rel="stylesheet" />
+
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+  <!-- Header -->
+  <header class="site-header" id="site-header">
+    <div class="header-inner">
+      <a href="#home" class="site-logo" id="site-logo">Portfolio<span>.</span></a>
+
+      <button class="menu-toggle" id="menu-toggle" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav class="site-nav" id="site-nav">
+        <a href="#home" class="nav-link" data-route="home">Galleries</a>
+        <a href="#contact" class="nav-link" data-route="contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main id="app">
+    <!-- Pages are injected here by main.js -->
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <p>&copy; <span id="year"></span> Portfolio. All rights reserved.</p>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/router.js"></script>
+  <script src="js/gallery.js"></script>
+  <script src="js/contact.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+
+</body>
+
+</html>
