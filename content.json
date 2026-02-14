@@ -1,79 +1,32 @@
 {
   "pageName": "My Portfolio",
-  "baseUrl": "https://example.github.io/portfolio",
+  "baseUrl": "https://frejyalukhanina.github.io/",
   "galleries": {
-    "1950s-Photoshoot": {
+    "Red Hollydays": {
       "images": [
-        "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800&q=80",
-        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&q=80",
-        "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=800&q=80",
-        "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=800&q=80",
-        "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800&q=80"
+        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULz8U7hPmvo01TYQtHhknNlLF5IgBUu6iVOspf",
+        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULPiwOjYXDMxWRacdmusIfFlg3BEXktKUGbSYr",
+        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULdd06kYAEF59kiUAeRgNZX37GPphLJsqj0tfB"
       ],
       "tags": [
-        "vintage",
-        "portrait",
-        "fashion"
+        "streetphotography",
+        "hollydays",
+        "warm"
       ],
-      "description": "A nostalgic photoshoot capturing the essence of the 1950s era with timeless elegance and classic styling."
-    },
-    "Urban-Landscapes": {
-      "images": [
-        "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&q=80",
-        "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=800&q=80",
-        "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=800&q=80",
-        "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=800&q=80"
-      ],
-      "tags": [
-        "city",
-        "architecture",
-        "street"
-      ],
-      "description": "Modern urban photography exploring the geometry and rhythm of metropolitan life."
-    },
-    "Nature-Serenity": {
-      "images": [
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
-        "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80",
-        "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=800&q=80",
-        "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=800&q=80",
-        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80",
-        "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80"
-      ],
-      "tags": [
-        "nature",
-        "landscape",
-        "tranquil"
-      ],
-      "description": "Serene landscapes and natural beauty from untouched wilderness around the world."
-    },
-    "Abstract-Visions": {
-      "images": [
-        "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=800&q=80",
-        "https://images.unsplash.com/photo-1550684376-efcbd6e3f031?w=800&q=80",
-        "https://images.unsplash.com/photo-1567095761054-7a02e69e5571?w=800&q=80"
-      ],
-      "tags": [
-        "abstract",
-        "color",
-        "experimental"
-      ],
-      "description": "Experimental photography pushing the boundaries of form, color, and perception."
+      "description": "Captured in a festive urban setting, this editorial series showcases timeless winter styling with a classic red coat as the centerpiece. Warm golden lights and charming holiday décor create an intimate, sophisticated atmosphere. Perfect for seasonal campaigns, holiday lookbooks, and lifestyle editorials."
     }
   },
   "hero": {
-    "title": "Jane Doe",
+    "title": "Freiyja Greif",
     "subtitle": "Model",
     "ctaText": "Get in touch",
-    "backgroundImage": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=1600&q=80"
+    "backgroundImage": ""
   },
   "contact": {
-    "name": "Jane Doe",
+    "name": "Freiyja Greif",
     "email": "jane@example.com",
-    "phone": "+1 234 567 890",
     "social": {
-      "instagram": "https://instagram.com/janedoe",
-      "linkedin": "https://linkedin.com/in/janedoe"
+      "instagram": "https://instagram.com/janedoe"
     }
   }
 }
