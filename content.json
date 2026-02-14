@@ -4,9 +4,9 @@
   "galleries": {
     "Red Hollydays": {
       "images": [
-        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULz8U7hPmvo01TYQtHhknNlLF5IgBUu6iVOspf",
-        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULPiwOjYXDMxWRacdmusIfFlg3BEXktKUGbSYr",
-        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULdd06kYAEF59kiUAeRgNZX37GPphLJsqj0tfB"
+        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULDzQlscqCVOXeR0PTgGHa32JBC4zdwYnui5ps",
+        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULzexDsymvo01TYQtHhknNlLF5IgBUu6iVOspf",
+        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL39hRKKU2CcDiTPdahNxlrW4JgpOM07YozIKA"
       ],
       "tags": [
         "streetphotography",
@@ -26,16 +26,31 @@
       "tags": [
         "vintage aesthetic",
         "classic tailoring",
-        "striking presence"
+        "striking presence",
+        "bw"
       ],
       "description": "A moody black and white editorial exploring vintage-inspired styling and classical beauty. This series features refined period details—structured vests, delicate bow ties, and flowing fabrics—captured in intimate outdoor and urban settings. The atmospheric photography emphasizes clean lines, thoughtful composition, and a sophisticated, nostalgic narrative. Ideal for editorials, period pieces, and high-fashion lookbooks with a timeless appeal."
+    },
+    "1950s in color": {
+      "images": [
+        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULdNkyDJGAEF59kiUAeRgNZX37GPphLJsqj0tf",
+        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL3huguiSU2CcDiTPdahNxlrW4JgpOM07YozIK",
+        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULZnkoPhTmO4fXlw128ECJx7db5zPruv9GpgYD",
+        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL3hlVe3wU2CcDiTPdahNxlrW4JgpOM07YozIK"
+      ],
+      "tags": [
+        "vintage aesthetic",
+        "classic tailoring",
+        "striking presence"
+      ],
+      "description": "A sleek and sophisticated editorial series set against the backdrop of a bustling cityscape. This collection features contemporary fashion with clean lines, bold silhouettes, and a monochromatic palette. The photography captures the dynamic energy of urban life while highlighting the model's striking presence and refined style. Ideal for high-fashion editorials, modern lookbooks, and campaigns that celebrate the intersection of fashion and city living. <a href='/#gallery/1950s'>Black and white</a>"
     }
   },
   "hero": {
     "title": "Freiyja Greif",
     "subtitle": "Model",
     "ctaText": "Get in touch",
-    "backgroundImage": ""
+    "backgroundImage": "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULkolKepYHUPhOMCzIpWeYw8Q5Lna6VqlAJsxu"
   },
   "contact": {
     "name": "Freiyja Greif",
