@@ -972,7 +972,7 @@ main {
 .hero-cta {
   display: inline-flex;
   align-items: center;
-  padding: 14px 32px;
+  padding: .4rem .6rem;
   font-size: 1rem;
   font-weight: 600;
   color: #fff;
