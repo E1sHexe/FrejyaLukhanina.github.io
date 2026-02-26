@@ -9,27 +9,26 @@
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL39hRKKU2CcDiTPdahNxlrW4JgpOM07YozIKA"
       ],
       "tags": [
-        "streetphotography",
-        "holidays",
-        "warm"
+        "Festive Street Style",
+        "Winter Glow",
+        "Warm Elegance"
       ],
-      "description": "Captured in a festive urban setting, this editorial series showcases timeless winter styling with a classic red coat as the centerpiece. Warm golden lights and charming holiday décor create an intimate, sophisticated atmosphere. Perfect for seasonal campaigns, holiday lookbooks, and lifestyle editorials."
+      "description":
     },
     "1950s": {
       "images": [
-        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULzPaPs3mvo01TYQtHhknNlLF5IgBUu6iVOspf",
-        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULkolKepYHUPhOMCzIpWeYw8Q5Lna6VqlAJsxu",
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULKgDKvBnlFhmwJX145S62EOPrNjAqyZps8zKu",
+        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULkolKepYHUPhOMCzIpWeYw8Q5Lna6VqlAJsxu",
+        "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULzPaPs3mvo01TYQtHhknNlLF5IgBUu6iVOspf",
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULa5s3Sm9ID3pZLqY2WSXroBycnF69O51lUizm",
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULc6wDLsP8bmiZsqElBtjo0kedA2Tg4aSnKNPv"
       ],
       "tags": [
         "vintage aesthetic",
-        "classic tailoring",
-        "striking presence",
+        "storytelling",      
         "bw"
       ],
-      "description": "A moody black and white editorial exploring vintage-inspired styling and classical beauty. This series features refined period details—structured vests, delicate bow ties, and flowing fabrics—captured in intimate outdoor and urban settings. The atmospheric photography emphasizes clean lines, thoughtful composition, and a sophisticated, nostalgic narrative. Ideal for editorials, period pieces, and high-fashion lookbooks with a timeless appeal. <u><a href='/#gallery/1950s%20in%20color'>full colour version</a></u>"
+      "description":
     },
     "1950s in color": {
       "images": [
@@ -43,7 +42,7 @@
         "classic tailoring",
         "striking presence"
       ],
-      "description": "A vibrant and colorful editorial exploring vintage-inspired styling and classical beauty. This series features refined period details—structured vests, delicate bow ties, and flowing fabrics—captured in intimate outdoor and urban settings. The atmospheric photography emphasizes clean lines, thoughtful composition, and a sophisticated, nostalgic narrative. Ideal for editorials, period pieces, and high-fashion lookbooks with a timeless appeal. <u><a href='/#gallery/1950s'>Black and white version</a></u>"
+      "description":
     },
     "Mystic Forestscene": {
       "images": [
@@ -53,11 +52,11 @@
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL11Et4sOJ5CKqHet24czU0DkxNRaonV6rLfEd"
       ],
       "tags": [
-        "storytelling",
-        "nuanced expressions",
-        "natural light portrait"
+        "Fantasy",
+        "Storytelling",
+        "Mystical"
       ],
-      "description": "A moody woodland editorial showcasing dynamic range across diverse angles and poses. Strong command of subtle facial expressions and body positioning in natural settings. Excellent work with atmospheric lighting and organic movement. Demonstrates professionalism in capturing layered emotions and versatile presence across multiple shots. Ideal for editorial, lifestyle, and commercial work."
+      "description":
     }
   },
   "hero": {
