@@ -13,7 +13,7 @@
         "Winter Glow",
         "Warm Elegance"
       ],
-      "description":
+      "description":""
     },
     "1950s": {
       "images": [
@@ -28,7 +28,7 @@
         "storytelling",      
         "bw"
       ],
-      "description":
+      "description":""
     },
     "1950s in color": {
       "images": [
@@ -42,7 +42,7 @@
         "classic tailoring",
         "striking presence"
       ],
-      "description":
+      "description":""
     },
     "Mystic Forestscene": {
       "images": [
@@ -56,7 +56,7 @@
         "Storytelling",
         "Mystical"
       ],
-      "description":
+      "description":""
     }
   },
   "hero": {
